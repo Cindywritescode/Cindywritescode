@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan based in London📍</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **Redux**
 
 - 📫 How to reach me **hakkacindy@gmail.com**
 
