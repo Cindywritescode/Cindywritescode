@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & Redux**
 
-- 📫 How to reach me **hakkacindy@gmail.com**
+- 📫 How to reach me **cindywritescode@gmail.com**
 
 - 📝 View [**my portfolio**](https://cindy-liang.notion.site/Cindy-Liang-363ef0b911f841cc906acfb6f30122b8)
 
