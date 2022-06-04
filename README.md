@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">A passionate Full-stack Developer from Taiwan based in London📍</h3>
+<h3 align="center">A passionate Software Engineer from Taiwan based in London📍</h3>
 
-- 🌱 I’m currently learning **React & Redux**
+- 🌱 I’m currently learning **Python🐍**
 
 - 📫 How to reach me **cindywritescode@gmail.com**
 
