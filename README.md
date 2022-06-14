@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cindy</h1>
 <h3 align="center">A passionate Software Engineer from Taiwan based in London📍</h3>
 
-- 🌱 I’m currently learning **Python🐍**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **cindywritescode@gmail.com**
 
