@@ -1,4 +1,5 @@
-![Cindywritescode-banner](https://user-images.githubusercontent.com/40741952/193648677-0733a0d2-b8e4-425e-9c22-a0015aed270f.png)
+![banner](https://user-images.githubusercontent.com/40741952/193659919-10b300a5-3342-4ca8-84b2-45e43ed31a4e.png)
+
 
 # ⭐️ About me
 I'm Cindy, a software engineer from Taiwan, based in London, with former experience in digital marketing and e-commerce management in the fashion industry. I enjoy building software to resolve deep customer problems and creating UX design to provide a meaningful user experience. I had experience in full-stack app development, focusing on React, Next.js and cloud engineering. Now I am learning Augmented Reality development. [**View my portfolio**](https://cindy-liang.notion.site/Cindy-Liang-363ef0b911f841cc906acfb6f30122b8)
