@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Cindy</h1>
-<h3 align="center">A passionate Software Engineer from Taiwan based in London📍</h3>
+![Cindywritescode-banner](https://user-images.githubusercontent.com/40741952/193648677-0733a0d2-b8e4-425e-9c22-a0015aed270f.png)
 
-- 🌱 I’m currently learning **Java**
+# ⭐️ About me
+I'm Cindy, a software engineer from Taiwan, based in London, with former experience in digital marketing and e-commerce management in the fashion industry. I enjoy building software to resolve deep customer problems and creating UX design to provide a meaningful user experience. I had experience in full-stack app development, focusing on React, Next.js and cloud engineering. Now I am learning Augmented Reality development. [**View my portfolio**](https://cindy-liang.notion.site/Cindy-Liang-363ef0b911f841cc906acfb6f30122b8)
 
-- 📫 How to reach me **cindywritescode@gmail.com**
+Outside work, I enjoy yoga, cycling, jewellery design, perfume and candle making. 
 
-- 📝 View [**my portfolio**](https://cindy-liang.notion.site/Cindy-Liang-363ef0b911f841cc906acfb6f30122b8)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/li-hsin-liang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="li-hsin-liang/" height="30" width="40" /></a>
-<a href="https://instagram.com/cindywritescode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_cindyliang_/" height="30" width="40" /></a>
-</p>
+## 👋 How to reach me 
+Come say hi to me me via [LinkedIn](https://linkedin.com/in/li-hsin-liang/) or [Instagram](https://instagram.com/cindywritescode/) ;)
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+## 🛠 Languages and Tools:
 <p align="left"> 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
